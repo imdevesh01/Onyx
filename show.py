@@ -490,4 +490,4 @@ async def on_ready():
     await show_daily_msg()
 
 # my_secret = os.environ['TOKEN']
-client.run('MTAxNDg3NzU1MjU1ODQ4OTczMQ.GdQMOG.7CyedfMT0AtKQa8GVb43Rw6t4ha7CqOySBi0Pc')
+client.run('Token No.')
